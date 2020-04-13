@@ -45,4 +45,4 @@ Thanks,
 
 <br>
 
-This script was originally published at [https://greiginsydney.com/test-edgeconnectivity-ps1//](https://greiginsydney.com/test-edgeconnectivity-ps1//).
+This script was originally published at [https://greiginsydney.com/test-edgeconnectivity-ps1](https://greiginsydney.com/test-edgeconnectivity-ps1).
