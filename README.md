@@ -16,7 +16,7 @@ If you run this script on your Front-End server(s) it will:
 - save the results in the log file in csv format 
  
 <img id="218249" src="https://user-images.githubusercontent.com/11004787/79120487-5de54000-7dd6-11ea-9bc9-ed81672174ca.png" alt="" width="843" height="245" />
-<img id="220953" src="https://i1.gallery.technet.s-msft.com/test-edgeconnectivityps1-24bd669b/image/file/220953/1/test-edgeconnectivity-v1.1example.png" alt="" width="979" height="306" />
+<img id="220953" src="https://user-images.githubusercontent.com/11004787/79120605-a270db80-7dd6-11ea-9378-6bdfd468bef3.png" alt="" width="979" height="306" />
  
 ### Revision History
 #### v1.2 7th August 2019.
@@ -35,7 +35,7 @@ If you run this script on your Front-End server(s) it will:
 - Added "-TargetFqdn" switch to force a test to a single machine - or a list. (Thanks Naimesh!) 
 - Added write-progress to the port tests so you can see when it' stuck on a bad port 
 
-#### 10th December 2018. This is the initial release.
+#### v1.0 10th December 2018. This is the initial release.
  
 If you encounter any problems with the script or can suggest improvements, please let me know in the comments, via Twitter (@greiginsydney) or in <a href="https://greiginsydney.com/test-edgeconnectivity-ps1" target="_blank">the accompanying post on my blog</a>.
  
