@@ -15,7 +15,7 @@ If you run this script on your Front-End server(s) it will:
 - output the results to the pipeline as an object 
 - save the results in the log file in csv format 
  
-<img id="218249" src="/site/view/file/218249/1/Test-EdgeConnectivity.jpg" alt="" width="843" height="245" />
+<img id="218249" src="https://user-images.githubusercontent.com/11004787/79120487-5de54000-7dd6-11ea-9bc9-ed81672174ca.png" alt="" width="843" height="245" />
 <img id="220953" src="https://i1.gallery.technet.s-msft.com/test-edgeconnectivityps1-24bd669b/image/file/220953/1/test-edgeconnectivity-v1.1example.png" alt="" width="979" height="306" />
  
 ### Revision History
